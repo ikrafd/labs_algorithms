@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+**/.vs/Labs
+**/x64/Debug
+**.filters
+**.user
+**.bin
+/.vs
+**.dat
